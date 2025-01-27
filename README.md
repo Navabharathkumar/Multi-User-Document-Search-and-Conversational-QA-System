@@ -7,10 +7,6 @@ It includes a [LangGraph](https://langchain-ai.github.io/langgraph/) agent, a [F
 This project offers a template for you to easily build and run your own agents using the LangGraph framework. It demonstrates a complete setup from agent definition to user interface, making it easier to get started with LangGraph-based projects by providing a full, robust toolkit.
 
 ## Overview
-
-# Multi-User Document Search and Conversational Q&A System
-
-## Overview
 This system allows multiple users to query a collection of text documents and retrieve relevant excerpts based on their queries. Each user has restricted access to specific documents, ensuring they can only retrieve answers from the files they are authorized to view. Additionally, the system provides a conversational Q&A experience, where follow-up questions maintain context from previous interactions. The system includes a basic user interface (UI) for easy interaction.
 
 ## System Context
