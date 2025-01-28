@@ -300,3 +300,13 @@ To customize the agent for your own use case:
 ## Building other apps on the AgentClient
 
 The repo includes a generic `src/client/client.AgentClient` that can be used to interact with the agent service. This client is designed to be flexible and can be used to build other apps on top of the agent. It supports both synchronous and asynchronous invocations, and streaming and non-streaming requests.
+
+## Projects built with or inspired by agent-service-toolkit
+The following are a few of the public projects that drew code or inspiration from this repo.
+
+raushan-in/dapa - Digital Arrest Protection App (DAPA) enables users to report financial scams and frauds efficiently via a user-friendly platform.
+
+JoshuaC215/agent-service-toolkit - A full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit. 
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
