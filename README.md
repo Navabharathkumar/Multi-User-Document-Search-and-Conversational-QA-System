@@ -6,13 +6,14 @@ It includes a [LangGraph](https://langchain-ai.github.io/langgraph/) agent, a [F
 
 This project uses a template to easily build and run our own agents using the LangGraph framework. It demonstrates a complete setup from agent definition to user interface, making it easier to get started with LangGraph-based projects by providing a full, robust toolkit.
 
-### Demo Vedio: https://docs.google.com/presentation/d/1e1F3U1A0CEhD1Q4pFX6P6ZLtHOtt7UpN/edit?usp=sharing&ouid=115980898560151624955&rtpof=true&sd=true 
+### Demo Vedio: 
+https://docs.google.com/presentation/d/1e1F3U1A0CEhD1Q4pFX6P6ZLtHOtt7UpN/edit?usp=sharing&ouid=115980898560151624955&rtpof=true&sd=true 
 
 ### UI snippets
 
-<img src="media/Capture.png" width="600">
+<img src="media/Capture.PNG" width="600">
 
-<img src="media/Capture1.png" width="600">
+<img src="media/Capture1.PNG" width="600">
 
 ## Overview
 This system allows multiple users to query a collection of text documents and retrieve relevant excerpts based on their queries. Each user has restricted access to specific documents, ensuring they can only retrieve answers from the files they are authorized to view. Additionally, the system provides a conversational Q&A experience, where follow-up questions maintain context from previous interactions. The system includes a basic user interface (UI) for easy interaction.
